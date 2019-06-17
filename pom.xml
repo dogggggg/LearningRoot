@@ -12,6 +12,7 @@
         <module>FutureLearning</module>
         <module>UtilLearning</module>
         <module>VertxStarter</module>
+        <module>MockitoLearning</module>
     </modules>
 
     <properties>
